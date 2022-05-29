@@ -9,10 +9,11 @@ $(document).ready(function() {
 				moveSlides: 1,
 				speed: 3000,
 				pager: true,
-				pagerType: "short",
+				pagerType: 'short',
 				pagerSelector: "#pager",
-				captions: true
-
+				captions: true,
+			
+			
 
 
 			  
