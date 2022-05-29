@@ -1,18 +1,16 @@
 $(document).ready(function() {
         	$("#slider").bxSlider({
-				auto: true,
-				minSlides: 1,
-				maxSlides: 1,
-				slideWidth: 350,
-				slideMargin: 10,
-				randomStart: true,
-				moveSlides: 1,
-				speed: 3000,
-				pager: true,
-				pagerType: 'short',
-				pagerSelector: '#pager',
-				captions: true,
-			
+				  randomStart: true,
+				  pager: true,
+				  captions: true,
+				  pagerSelector: '#pager',
+				  pagerType: 'short',
+				  auto: true,
+				  speed: 3000,
+				  minSlides: 1,
+				  maxSlides: 1,
+				  slideWidth: 250,
+				  slideMargin: 10
 			
 
 
